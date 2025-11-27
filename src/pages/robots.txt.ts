@@ -5,7 +5,7 @@ export const GET: APIRoute = () => {
 User-agent: *
 Allow: /
 
-Sitemap: https://rohitashvasingh.com/sitemap.xml
+Sitemap: https://josemarquezalmaraz.com/sitemap.xml
 `;
 
   return new Response(content.trim(), {
