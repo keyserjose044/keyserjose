@@ -1,6 +1,6 @@
 export const profile = {
   fullName: 'Jose Marquez Almaraz',
-  title: 'Mr.', // title shown in sidebar before the name
+  title: '', // title shown in sidebar before the name
   institute: 'Ph.D Student at the University of Texas at Arlington', // hero subtitle
   author_name: 'Jose Marquez Almaraz',
 
