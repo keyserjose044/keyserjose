@@ -3,43 +3,43 @@
 
   <!-- Home -->
   <url>
-    <loc>https://rohitashvasingh.com/</loc>
+    <loc>https://josemarquezalmaraz.com/</loc>
     <priority>1.0</priority>
   </url>
 
   <!-- Research / Projects -->
   <url>
-    <loc>https://rohitashvasingh.com/projects</loc>
+    <loc>https://josemarquezalmaraz.com/projects</loc>
     <priority>0.9</priority>
   </url>
 
   <!-- Publications -->
   <url>
-    <loc>https://rohitashvasingh.com/publications</loc>
+    <loc>https://josemarquezalmaraz.com/publications</loc>
     <priority>0.9</priority>
   </url>
 
   <!-- CV -->
   <url>
-    <loc>https://rohitashvasingh.com/cv</loc>
+    <loc>https://josemarquezalmaraz.com/cv</loc>
     <priority>0.8</priority>
   </url>
 
-  <!-- Blog (optional, depending on template structure) -->
+  <!-- Blog -->
   <url>
-    <loc>https://rohitashvasingh.com/blog</loc>
+    <loc>https://josemarquezalmaraz.com/blog</loc>
     <priority>0.6</priority>
   </url>
 
-  <!-- Photography (you will create this soon) -->
+  <!-- Photography (optional future page) -->
   <url>
-    <loc>https://rohitashvasingh.com/photography</loc>
+    <loc>https://josemarquezalmaraz.com/photography</loc>
     <priority>0.7</priority>
   </url>
 
   <!-- Contact -->
   <url>
-    <loc>https://rohitashvasingh.com/contact</loc>
+    <loc>https://josemarquezalmaraz.com/contact</loc>
     <priority>0.6</priority>
   </url>
 
