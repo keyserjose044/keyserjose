@@ -1,8 +1,8 @@
 export const profile = {
-  fullName: 'Rohitashva K. Singh',
-  title: 'Dr.', // title shown in sidebar before the name
-  institute: 'Postdoc at the University of Louisville', // hero subtitle
-  author_name: 'Rohitashva K. Singh',
+  fullName: 'Jose Marquez Almaraz',
+  title: 'Mr.', // title shown in sidebar before the name
+  institute: 'Ph.D Student at the University of Texas at Arlington', // hero subtitle
+  author_name: 'Jose Marquez Almaraz',
 
   research_areas: [
     {
@@ -34,7 +34,7 @@ export const profile = {
 
 // SOCIALS
 export const social = {
-  email: 'mailto:rohitashva.xlr8@gmail.com',
+  email: 'mailto:josemarquez044@gmail.com',
   linkedin: 'https://www.linkedin.com/in/rohitashvasingh/',
   x: 'https://x.com/hitromarku',
   github: '',
@@ -47,7 +47,7 @@ export const social = {
 
 // TEMPLATE SETTINGS
 export const template = {
-  website_url: 'https://rohitashvasingh.com',
+  website_url: 'https://josemarquezalmaraz.com',
   menu_left: false,
   transitions: true,
   lightTheme: 'light',
@@ -59,8 +59,8 @@ export const template = {
 
 // SEO
 export const seo = {
-  default_title: 'Dr. Rohitashva K. Singh',
+  default_title: 'Jose Marquez Almaraz',
   default_description:
-    'Portfolio of Dr. Rohitashva K. Singh, materials and structural engineer specializing in nano-reinforced cementitious composites, sustainable concrete, and durability.',
+    'Portfolio of Jose Marquez Almaraz, materials and structural engineer specializing in nano-reinforced cementitious composites, next-gen concrete, and durability.',
   default_image: '/images/rohitbanner.png',
 };
